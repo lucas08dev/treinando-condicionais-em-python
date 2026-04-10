@@ -1,5 +1,5 @@
-nome = input("Digite o seu nome: ")
-serie = int(input("Digite a sua sala (Apenas o número, ex: 3): "))
+nome = (input("Digite o seu nome: "))
+serie = (input("Digite a sua sala: "))
 nota = int(input("Digite sua nota (de 0 a 100): "))
 
 if nota>=60:
